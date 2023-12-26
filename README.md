@@ -6,7 +6,7 @@ The "Candy Production Analysis in USA" project is a comprehensive exploration of
 The project follows a structured lifecycle that encompasses data acquisition, preprocessing, exploratory data analysis (EDA), statistical modelling, and forecasting. 
 
 **1. Data Acquisition:**
-   The project initiates with the collection of relevant data, encompassing historical records of candy production, observation dates, and the industrial production index.
+   The project initiates the collection of relevant data, encompassing historical records of candy production, observation dates, and the industrial production index.
 
 **2. Data Preprocessing:**
    The acquired data undergoes preprocessing to handle missing values, outliers, and ensure data consistency. This phase involves data cleaning, normalization, and the creation of relevant time series structures.
