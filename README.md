@@ -9,7 +9,7 @@ The project follows a structured lifecycle that encompasses data acquisition, pr
    The project initiates the collection of relevant data, encompassing historical records of candy production, observation dates, and the industrial production index.
 
 **2. Data Preprocessing:**
-   The acquired data undergoes preprocessing to handle missing values, outliers, and ensure data consistency. This phase involves data cleaning, normalization, and the creation of relevant time series structures.
+   The acquired data undergoes preprocessing to handle missing values, and outliers, and ensure data consistency. This phase involves data cleaning, normalization, and the creation of relevant time series structures.
 
 **3. Exploratory Data Analysis (EDA):**
    Utilizing statistical methods and visualizations powered by Seaborn and Matplotlib, the project conducts exploratory data analysis to uncover patterns, correlations, and anomalies within the candy production dataset. This step provides valuable insights into the historical trends and relationships between variables.
