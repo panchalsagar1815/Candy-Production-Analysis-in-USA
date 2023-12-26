@@ -3,7 +3,7 @@
 
 The "Candy Production Analysis in USA" project is a comprehensive exploration of candy production trends in the United States, with the goal of understanding and predicting production patterns over time. The dataset includes key features such as observation date, industrial production index (IPG3113N), and candy production.
 
-The project follows a structured lifecycle that encompasses data acquisition, preprocessing, exploratory data analysis (EDA), statistical modeling, and forecasting. 
+The project follows a structured lifecycle that encompasses data acquisition, preprocessing, exploratory data analysis (EDA), statistical modelling, and forecasting. 
 
 **1. Data Acquisition:**
    The project initiates with the collection of relevant data, encompassing historical records of candy production, observation dates, and the industrial production index.
